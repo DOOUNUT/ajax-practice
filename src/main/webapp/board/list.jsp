@@ -26,8 +26,3 @@
 		</c:forEach>
 	</tbody>
 </table>
-
-반응
-
-댓글
-
